@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2019",
+    "outDir": "./dist",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node"
+  },
+  "include": [
+    "ExpressServer/server.ts",
+    "Public/index.ts",
+    "Public/controllers/accessKeyController.ts",
+    "Public/main/index.ts"
+  ],
+  "exclude": ["node_modules"]
+}
