@@ -1,7 +1,7 @@
 {
   "name": "kexiron",
   "description": "高坂佳渡：個人開発備忘録などを更新",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/ExpressServer/server.js",
   "directories": {
     "test": "test"
